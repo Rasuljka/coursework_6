@@ -1,0 +1,87 @@
+[
+{
+  "model": "users.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$2MgiHBL1JP6xdDM5CGlfNb$637ax59s6l2R62YDn+Aeh2h/L8IyItGtXllmnhoKIKk=",
+    "last_login": "2024-04-17T10:01:27.077Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-04-16T22:08:36.176Z",
+    "email": "admin@admin.ru",
+    "phone": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$KeJCH8zT62A8ST4TcldFim$caqSp/27PC9pzmsDC3yYO9NdW7hwlyAlArdfAe3MzsE=",
+    "last_login": "2024-04-16T22:16:24.280Z",
+    "is_superuser": false,
+    "username": "",
+    "first_name": "Ekaterina",
+    "last_name": "Semenova",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-04-16T22:09:07.116Z",
+    "email": "ekaterina.s3006@yandex.ru",
+    "phone": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$lRSjA8Ofllc7LjIjaW9S5r$5mjyk9sKfTGgZO3QCcrxRSmcB5TgAHkQ++OEjJvDn/0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Katya",
+    "first_name": "Eka",
+    "last_name": "Sem",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-04-17T09:57:51Z",
+    "email": "katlyn.s@mail.ru",
+    "phone": "+79825473741",
+    "groups": [
+      2
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 6,
+  "fields": {
+    "password": "123123",
+    "last_login": "2024-04-17T10:01:49Z",
+    "is_superuser": false,
+    "username": "user1",
+    "first_name": "user1",
+    "last_name": "user1",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-04-17T10:01:40Z",
+    "email": "user1@mail.ru",
+    "phone": "+79824753685",
+    "groups": [
+      2
+    ],
+    "user_permissions": [
+      49,
+      50,
+      51,
+      52
+    ]
+  }
+}
+]

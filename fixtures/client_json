@@ -1,0 +1,41 @@
+﻿[
+{
+  "model": "mailing.client",
+  "pk": 1,
+  "fields": {
+    "surname": "VVV",
+    "name": "Nastya",
+    "email": "anastasiya12@mail.ru",
+    "comment": "friend",
+    "created_at": "2024-04-16T22:17:10.761Z",
+    "is_active": true,
+    "owner": 2
+  }
+},
+{
+  "model": "mailing.client",
+  "pk": 2,
+  "fields": {
+    "surname": "Semenov",
+    "name": "Danil",
+    "email": "danil.nv90@inbox.ru",
+    "comment": "family",
+    "created_at": "2024-04-16T22:17:37.897Z",
+    "is_active": true,
+    "owner": 2
+  }
+},
+{
+  "model": "mailing.client",
+  "pk": 3,
+  "fields": {
+    "surname": "user1",
+    "name": "user1",
+    "email": "user1@mail.ru",
+    "comment": "random",
+    "created_at": "2024-04-16T22:18:06.617Z",
+    "is_active": true,
+    "owner": 2
+  }
+}
+]

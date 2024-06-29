@@ -1,0 +1,12 @@
+[
+{
+  "model": "mailing.message",
+  "pk": 1,
+  "fields": {
+    "title": "╧юцхырэшх",
+    "text": "╒юЁю°хую фэ  Єхсх",
+    "created_at": "2024-04-16T22:18:32.717Z",
+    "owner": 2
+  }
+}
+]
